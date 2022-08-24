@@ -1,0 +1,5 @@
+export const VIEW_DETAIL = "VIEW_DETAIL";
+export const ADD_SHOES_TO_CART = "ADD_SHOES_TO_CART";
+export const DECREASE_AMOUNT = "DECREASE_AMOUNT";
+export const INCREASE_AMOUNT = "INCREASE_AMOUNT";
+export const DELETE_SHOES = "DELETE_SHOES";
